@@ -19,7 +19,19 @@
             <artifactId>selenium-chrome-driver</artifactId>
             <version>4.7.2</version>
         </dependency>
-
+        <!-- https://mvnrepository.com/artifact/ru.sbtqa/chromedriver-bin -->
+        <dependency>
+            <groupId>ru.sbtqa</groupId>
+            <artifactId>chromedriver-bin</artifactId>
+            <version>108.0.5359.71</version>
+        </dependency>
+       <!-- &lt;!&ndash; https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-devtools-v86 &ndash;&gt;
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-devtools-v86</artifactId>
+            <version>4.0.0-alpha-7</version>
+        </dependency>
+-->
 
     </dependencies>
 
